@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poopins:200,300,400,500,600,700,800,900&display=swap');
+.
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poopins';
+}
+body
+{
+    background: linear-gradient(90deg,#0e3959 0%,#0e3959 30%,#03a9f5 30%,#03a9f5 100%);
+}
+.ContactUs
+{
+    position: relative;
+    width: 100%;
+    padding: 40px 100px;
+}
+.ContactUs .title
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+

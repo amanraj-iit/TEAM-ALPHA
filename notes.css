@@ -1,0 +1,11 @@
+.imgdr{
+    height: 280px;
+}
+        
+#header{
+    background: url("https://9to5mac.com/wp-content/uploads/sites/6/2019/03/Untitled.png?w=1500");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}

@@ -1,0 +1,22 @@
+.bcontent {
+            margin-top: 10px;
+        }
+        body{
+        	background-image:url("https://image.freepik.com/free-photo/too-many-questions-wooden-background-pile-colorful-paper-notes-with-question-marks-top-view_79075-1760.jpg");
+	        background-size: cover;
+            background-position: center;
+            padding-bottom: 20px;
+        }
+
+        .paper{
+            width: 500px; 
+            padding: 8px; 
+            background: black; 
+            color: white;
+        }
+        h1{
+            color: white; 
+            text-align: center; 
+            text-decoration: 
+            underline;
+        }

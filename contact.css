@@ -1,0 +1,41 @@
+.bcontent {
+    margin-top: 10px;
+}
+
+ul{
+	float: left;
+	list-style-type: none;
+	margin-top: 50px;
+}
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 20px 70px;
+	border: 1px solid #fff;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+ul li.active a{background-color: #fff;
+	color: #000;
+
+}
+body{
+    background-image:url("https://ak.picdn.net/shutterstock/videos/9251384/thumb/2.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 20px;
+}

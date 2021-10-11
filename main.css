@@ -1,0 +1,15 @@
+body{
+	background-image: url(hi.jpg) ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	margin: 100px auto;
+	background: rgb(8, 110, 243);
+	width: 450px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 15px;
+	opacity: 0.7;
+}

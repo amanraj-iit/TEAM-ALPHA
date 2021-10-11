@@ -1,0 +1,18 @@
+ .bcontent {
+            margin-top: 10px;
+        }
+        body{
+        	background-image:url("https://collegeinfogeek.com/wp-content/uploads/2018/11/Essential-Books.jpg");
+	        background-size: cover;
+            background-position: center;
+            padding-bottom: 20px;
+        }
+        .book{
+            width: 500px; 
+            padding: 7px;
+        }
+        h1{
+            color: white; 
+            text-align: center; 
+            text-decoration: underline;
+        }

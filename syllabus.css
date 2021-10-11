@@ -1,0 +1,23 @@
+.bcontent {
+    margin-top: 10px;
+}
+
+body{
+    background-image:url("https://ak.picdn.net/shutterstock/videos/9251384/thumb/2.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 20px;
+}
+
+.syllabus{
+    margin-left: 68px;
+    width: 800px; 
+    padding: 8px;
+}
+        
+h1{
+    color: white; 
+    text-align: center; 
+    text-decoration: 
+    underline;
+}
